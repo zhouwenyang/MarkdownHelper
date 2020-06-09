@@ -1,8 +1,0 @@
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\bin\Debug\netstandard2.0\MarkdownHelper.deps.json
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\bin\Debug\netstandard2.0\MarkdownHelper.dll
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\obj\Debug\netstandard2.0\MarkdownHelper.csproj.CoreCompileInputs.cache
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\obj\Debug\netstandard2.0\MarkdownHelper.AssemblyInfoInputs.cache
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\obj\Debug\netstandard2.0\MarkdownHelper.AssemblyInfo.cs
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\bin\Debug\netstandard2.0\MarkdownHelper.pdb
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\obj\Debug\netstandard2.0\MarkdownHelper.dll
-C:\Users\jackyzhou\source\repos\MarkdownHelper\MarkdownHelper\obj\Debug\netstandard2.0\MarkdownHelper.pdb
